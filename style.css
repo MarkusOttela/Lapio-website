@@ -1,14 +1,18 @@
+body {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #555;
+}
 
-h1   {color: blue;}
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+  color: #333;
+}
 
-h6   {color: red;}
-
-li   {color: rgb(245, 133, 235);}
-
-#punainen-kohta {
-    color: rgb(148, 53, 53);
-  }
-
-.leipateksti {
-    color: rgb(148, 53, 53);
-  }
+code {
+  padding: 2px 4px;
+  vertical-align: text-bottom;
+  background: #eee;
+}
