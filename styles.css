@@ -1,28 +1,65 @@
-.first-box-container {
-    width: 200px;
-    height: 100px;
+.eka {
+    width: 180px;
+    height: 120px;
+    font-size: small;
+    text-align: center;
+    color: blue;
     background-color: red;
     position: absolute;
-    top: 10px;
+    top: 20px;
+    left: 20px;
+
   }
   
-  .second-box-container {
+  .ekap {
     width: 200px;
-    height: 100px;
+    height: 140px;
+    background-color: rgb(10, 87, 0);
+    position: absolute;
+    top:  10px;
+    left: 10px;
+  }
+  
+  .toka {
+    width: 180px;
+    height: 120px;
+    font-size: small;
+    text-align: center;
+    color: blue;    
     background-color: yellow;
     position: absolute;
-    left: 250px;
-    top: 10px;
+    top: 20px;
+    left: 270px;
 
   }
   
-  .third-box-container {
+  .tokap {
     width: 200px;
-    height: 100px;
-    background-color: green;
+    height: 140px;
+    font-size: small;
+    background-color: red;
     position: absolute;
-    left: 500px;
-    top: 10px;
+    top:  10px;
+    left: 260px;
+  }
+
+  .kolmas {
+    width: 180px;
+    height: 120px;
+    text-align: center;
+    color: blue;
+    background-color: rgb(10, 87, 0);
+    position: absolute;
+    top: 20px;
+    left: 520px;
 
   }
   
+  .kolmasp {
+    width: 200px;
+    height: 140px;
+    background-color: yellow;
+    position: absolute;
+    top:  10px;
+    left: 510px;
+  }
