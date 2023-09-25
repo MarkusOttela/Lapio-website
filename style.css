@@ -1,1 +1,14 @@
-p { background-color: red; }
+
+h1   {color: blue;}
+
+h6   {color: red;}
+
+li   {color: rgb(245, 133, 235);}
+
+#punainen-kohta {
+    color: rgb(148, 53, 53);
+  }
+
+.leipateksti {
+    color: rgb(148, 53, 53);
+  }
